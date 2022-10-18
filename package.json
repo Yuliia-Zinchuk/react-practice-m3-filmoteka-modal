@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Yuliia-Zinchuk.github.io/react-practice-mod-1-2/",
+  "homepage": "https://Yuliia-Zinchuk.github.io/react-practice-m3-filmoteka-modal/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
